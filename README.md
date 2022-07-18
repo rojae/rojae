@@ -1,11 +1,13 @@
+
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=ff7f00&height=300&section=header&text=ROJAE&fontSize=65&animation=fadeIn)
+
+[![Github badge](https://img.shields.io/badge/Tech_Blog-white.svg?style=for-the-badge)](https://redcoder.tistory.com/)
+[![Github badge](https://img.shields.io/badge/portfolio-white.svg?style=for-the-badge)](https://rojae.kr/)
+
 
 <p align='center'>
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Oh Jaeseong server developer to support open source.
 </p>
-
-[![Github badge](https://img.shields.io/badge/Tech_Blog-white.svg?style=for-the-badge)](https://redcoder.tistory.com/)
-[![Github badge](https://img.shields.io/badge/portfolio-white.svg?style=for-the-badge)](https://rojae.kr/)
 
 ![rojae contribution](https://ghchart.rshah.org/rojae)
 
@@ -32,3 +34,4 @@
 [![rojae's github trophy](https://github-profile-trophy.vercel.app/?username=rojae&row=1)](https://github.com/rojae/github-profile-trophy)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
+
