@@ -11,7 +11,7 @@
 </p>
 
 ## 💡 Skill
-![Github badge](https://img.shields.io/badge/Main_Lanuage-Java/Spring-red.svg?style=for-the-badge) ![Github badge](https://img.shields.io/badge/Sub_Lanuage-C++/Javascript-orange.svg?style=for-the-badge)
+![Github badge](https://img.shields.io/badge/Main_Language-Java/Spring-red.svg?style=for-the-badge) ![Github badge](https://img.shields.io/badge/Sub_Language-C++/Javascript-orange.svg?style=for-the-badge)
 ![Github badge](https://img.shields.io/badge/Framework-JPA/Querydsl-green.svg?style=for-the-badge)
 
 ![Github badge](https://img.shields.io/badge/Centos7,8-blue.svg?style=for-the-badge&logo=centos&logoColor=white) 
@@ -23,7 +23,7 @@
 ## 😁 It's Me
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=R.LOG)](https://github.com/rojae/R.LOG) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=LectureEvaluation)](https://github.com/rojae/LectureEvaluation) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=querydsl-demo)](https://github.com/rojae/querydsl-demo) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=jpashop-demo)](https://github.com/rojae/jpashop-demo)
 
-### Top Lanuages
+### Top Languages
 ![rojae's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue)
 
 ### Github Stats Info
