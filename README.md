@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=ff7f00&height=300&section=header&text=ROJAE&fontSize=65&animation=fadeIn)
 
 [![Github badge](https://img.shields.io/badge/Tech_Blog-white.svg?style=for-the-badge)](https://redcoder.tistory.com/)
-[![Github badge](https://img.shields.io/badge/portfolio-white.svg?style=for-the-badge)](https://rojae.kr/)
+[![Github badge](https://img.shields.io/badge/portfolio-white.svg?style=for-the-badge)](http://rojae.kr/)
 
 
 <p align='center'>
