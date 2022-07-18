@@ -17,7 +17,7 @@
 ![Github badge](https://img.shields.io/badge/Centos7,8-blue.svg?style=for-the-badge&logo=centos&logoColor=white) 
 ![Github badge](https://img.shields.io/badge/Ubuntu-blue.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Github badge](https://img.shields.io/badge/AWS_EC2-blue.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Github badge](https://img.shields.io/badge/AWS_S3-blue.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Github badge](https://img.shields.io/badge/Bootstrap-blue.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Github badge](https://img.shields.io/badge/Maria/Maxscale-orange.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Github badge](https://img.shields.io/badge/Nginx/HAProxy-orange.svg?style=for-the-badge&logo=nginx) ![Github badge](https://img.shields.io/badge/Nginx/HAProxy-orange.svg?style=for-the-badge&logo=nginx)
+![Github badge](https://img.shields.io/badge/Maria/Maxscale-orange.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Github badge](https://img.shields.io/badge/Nginx/HAProxy-orange.svg?style=for-the-badge&logo=nginx) ![Github badge](https://img.shields.io/badge/gitlab/jenkins-orange.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
 
 ## 😁 It's Me
