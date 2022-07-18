@@ -24,7 +24,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=R.LOG)](https://github.com/rojae/R.LOG) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=LectureEvaluation)](https://github.com/rojae/LectureEvaluation) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=querydsl-demo)](https://github.com/rojae/querydsl-demo) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=jpashop-demo)](https://github.com/rojae/jpashop-demo)
 
 ### Top Languages
-![rojae's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue)
+![rojae's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue&&hide=Jupyter%20Notebook)
 
 ### Github Stats Info
 ![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&theme=white-blue)
