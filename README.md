@@ -24,15 +24,15 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=R.LOG)](https://github.com/rojae/R.LOG) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=LectureEvaluation)](https://github.com/rojae/LectureEvaluation) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=querydsl-demo)](https://github.com/rojae/querydsl-demo) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=jpashop-demo)](https://github.com/rojae/jpashop-demo)
 
 ### Top Lanuages
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue)](https://github.com/rojae/github-readme-stats)
+![rojae's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue)
 
 ### Github Stats Info
-[![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&theme=white-blue)](https://github.com/rojae/github-readme-stats)
+![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&theme=white-blue)
 
 ### Github Trophy List
-[![Github badge](https://img.shields.io/badge/Github-Trophy-red.svg)](https://shields.io/) [![Github badge](https://img.shields.io/badge/Repo-Commit-blue.svg)](https://shields.io/) [![Github badge](https://img.shields.io/badge/Repo-PR-yellow.svg)](https://shields.io/) 
+![Github badge](https://img.shields.io/badge/Github-Trophy-red.svg) ![Github badge](https://img.shields.io/badge/Repo-Commit-blue.svg) ![Github badge](https://img.shields.io/badge/Repo-PR-yellow.svg)
 
-[![rojae's github trophy](https://github-profile-trophy.vercel.app/?username=rojae&row=1)](https://github.com/rojae/github-profile-trophy)
+![rojae's github trophy](https://github-profile-trophy.vercel.app/?username=rojae&row=1)
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
 
