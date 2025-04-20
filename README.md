@@ -2,7 +2,7 @@
 
 [![Github badge](https://img.shields.io/badge/LINK_Tech_Blog-blue.svg?style=for-the-badge)](https://redcoder.tistory.com/)
 </br>
-[![Github badge](https://img.shields.io/badge/LINK_Profile-blue.svg?style=for-the-badge)](https://www,rallit.com/hub/resumes/781874)
+[![Github badge](https://img.shields.io/badge/LINK_Profile-blue.svg?style=for-the-badge)](https://www.rallit.com/hub/resumes/781874)
 
 
 <p align='center'>
