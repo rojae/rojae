@@ -29,6 +29,10 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=LectureEvaluation)](https://github.com/rojae/LectureEvaluation) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=querydsl-demo)](https://github.com/rojae/querydsl-demo) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=jpashop-demo)](https://github.com/rojae/jpashop-demo)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=load-prop)](https://github.com/rojae/load-prop)
 
+### Contributions
+- [OpenFeign](https://github.com/OpenFeign/feign)
+  - [#2458] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
+
 ### Top Languages
 ![rojae's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue&&hide=Jupyter%20Notebook)
 
