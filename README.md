@@ -31,7 +31,8 @@
 
 ### Contributions
 - [OpenFeign](https://github.com/OpenFeign/feign)
-  - [#2458] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
+  - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
+  - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
 
 ### Top Languages
 ![rojae's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue&&hide=Jupyter%20Notebook)
