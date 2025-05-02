@@ -6,7 +6,7 @@
 
 
 <p align='center'>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Oh Jaeseong server developer to support open source.
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Jaeseong Oh server developer to support open source.
   <br/><br/>
   <img src="https://ghchart.rshah.org/rojae" width="90%">
 </p>
