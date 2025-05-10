@@ -27,7 +27,9 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=R.LOG)](https://github.com/rojae/R.LOG) 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=I-m-Codefix&repo=ott-api-service)](https://github.com/I-m-Codefix/ott-api-service)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=LectureEvaluation)](https://github.com/rojae/LectureEvaluation) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=querydsl-demo)](https://github.com/rojae/querydsl-demo) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=jpashop-demo)](https://github.com/rojae/jpashop-demo)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=load-prop)](https://github.com/rojae/load-prop)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=load-prop)](https://github.com/rojae/load-prop)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=Spring-Encrypted-Sample)](https://github.com/rojae/Spring-Encrypted-Sample)\
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=Encrypt-Demo-Java)](https://github.com/rojae/Encrypt-Demo-Java)\
 
 ### Contributions
 - [OpenFeign](https://github.com/OpenFeign/feign)
