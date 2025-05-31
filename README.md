@@ -25,8 +25,3 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=load-prop)](https://github.com/rojae/load-prop)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=Spring-Encrypted-Sample)](https://github.com/rojae/Spring-Encrypted-Sample)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=Encrypt-Demo-Java)](https://github.com/rojae/Encrypt-Demo-Java)
-
-### Github Stats Info
-![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&theme=white-blue)
-
-
