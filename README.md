@@ -11,15 +11,10 @@
   <img src="https://ghchart.rshah.org/rojae" width="90%">
 </p>
 
-## 💡 Skill
-![Github badge](https://img.shields.io/badge/Main_Language-Java/Spring-red.svg?style=for-the-badge) ![Github badge](https://img.shields.io/badge/Sub_Language-C++/Javascript-orange.svg?style=for-the-badge)
-![Github badge](https://img.shields.io/badge/Framework-JPA/Querydsl-green.svg?style=for-the-badge)
-
-![Github badge](https://img.shields.io/badge/Centos7,8-blue.svg?style=for-the-badge&logo=centos&logoColor=white) 
-![Github badge](https://img.shields.io/badge/Ubuntu-blue.svg?style=for-the-badge&logo=ubuntu&logoColor=white) ![Github badge](https://img.shields.io/badge/AWS_EC2-blue.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Github badge](https://img.shields.io/badge/AWS_S3-blue.svg?style=for-the-badge&logo=amazon&logoColor=white) ![Github badge](https://img.shields.io/badge/Bootstrap-blue.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-![Github badge](https://img.shields.io/badge/Maria/Maxscale-orange.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Github badge](https://img.shields.io/badge/Nginx/HAProxy-orange.svg?style=for-the-badge&logo=nginx) ![Github badge](https://img.shields.io/badge/gitlab/jenkins-orange.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
+### Contributions
+- [OpenFeign](https://github.com/OpenFeign/feign)
+  - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
+  - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
 
 ## 😁 It's Me
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=auth-server-fe)](https://github.com/rojae/auth-server-fe) 
@@ -31,21 +26,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=Spring-Encrypted-Sample)](https://github.com/rojae/Spring-Encrypted-Sample)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=Encrypt-Demo-Java)](https://github.com/rojae/Encrypt-Demo-Java)
 
-### Contributions
-- [OpenFeign](https://github.com/OpenFeign/feign)
-  - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
-  - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
-
-### Top Languages
-![rojae's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rojae&theme=white-blue&&hide=Jupyter%20Notebook)
-
 ### Github Stats Info
 ![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&theme=white-blue)
 
-### Github Trophy List
-![Github badge](https://img.shields.io/badge/Github-Trophy-red.svg) ![Github badge](https://img.shields.io/badge/Repo-Commit-blue.svg) ![Github badge](https://img.shields.io/badge/Repo-PR-yellow.svg)
-
-![rojae's github trophy](https://github-profile-trophy.vercel.app/?username=rojae&row=1)
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
 
