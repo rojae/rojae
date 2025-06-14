@@ -1,4 +1,3 @@
-rojae/README.md
 ### Hi there 👋
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?logo=tistory)](https://redcoder.tistory.com)
 [![GitHub Blog](https://img.shields.io/badge/GitHub-Blog-black?logo=github)](https://rojae.github.io)
