@@ -1,15 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=ff7f00&height=300&section=header&text=ROJAE&fontSize=65&animation=fadeIn)
+rojae/README.md
+### Hi there 👋
+[![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?logo=tistory)](https://redcoder.tistory.com)
+[![GitHub Blog](https://img.shields.io/badge/GitHub-Blog-black?logo=github)](https://rojae.github.io)
+[![Resume](https://img.shields.io/badge/Resume-Page-blue?logo=read-the-docs)](https://www.rallit.com/hub/resumes/781874/%EC%98%A4%EC%9E%AC%EC%84%B1)
 
-[![Github badge](https://img.shields.io/badge/LINK_Tech_Blog-blue.svg?style=for-the-badge)](https://redcoder.tistory.com/)
-</br>
-[![Github badge](https://img.shields.io/badge/LINK_Profile-blue.svg?style=for-the-badge)](https://www.rallit.com/hub/resumes/781874)
+![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&show_icons=true&theme=merko)
 
-
-<p align='center'>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Jaeseong Oh server developer to support open source.
-  <br/><br/>
-  <img src="https://ghchart.rshah.org/rojae" width="90%">
-</p>
 
 ### Contributions
 - [OpenFeign](https://github.com/OpenFeign/feign)
