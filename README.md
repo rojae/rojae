@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 [![Tistory Blog](https://img.shields.io/badge/Tistory-Blog-orange?logo=tistory)](https://redcoder.tistory.com)
 [![GitHub Blog](https://img.shields.io/badge/GitHub-Blog-black?logo=github)](https://rojae.github.io)
 [![Resume](https://img.shields.io/badge/Resume-Page-blue?logo=read-the-docs)](https://www.rallit.com/hub/resumes/781874/%EC%98%A4%EC%9E%AC%EC%84%B1)
@@ -6,7 +6,7 @@
 ![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&show_icons=true&theme=merko)
 
 
-### Contributions
+## ✨ Contributions
 - [OpenFeign](https://github.com/OpenFeign/feign)
   - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
   - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
