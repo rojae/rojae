@@ -33,14 +33,10 @@
 - [Carrer.Site](https://nklcb.site) - (In progress): ⏫ IT company's Job listing aggregation site that scrapes postings site.
   - (In progress)
 
-<!--
 ## Blog Posts
+- [서비스가 커질수록 필요한 설계 패턴 – 메시징 시스템 예제 중심으로](https://rojae.github.io/posts/design-pattern-intro/)
 - [자바공화국에서 낭만을 찾다](https://rojae.github.io/posts/take-me-home-country-roads)
-- [젊은 로재씨의 슬픔] ()
-- [코드 리뷰, 5가지만 기억하자.]()
-- [나는 어쩌다 방문자 카운터 서비스를 만들게 되었나]()
-- [오픈 소스로 JetBrains 무제한 라이센스 받은 썰]()
--->
+- [젊은 로재씨의 슬픔 - 우당탕탕 PL 데뷔]()
 
 ## ✨ Contributions
 - [OpenFeign](https://github.com/OpenFeign/feign)
