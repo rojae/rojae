@@ -47,12 +47,3 @@
   - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
   - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
 
-## </> Repositories
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=auth-server-fe)](https://github.com/rojae/auth-server-fe) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=auth-server-be)](https://github.com/rojae/auth-server-be) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=R.LOG)](https://github.com/rojae/R.LOG) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=load-prop)](https://github.com/rojae/load-prop)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=LectureEvaluation)](https://github.com/rojae/LectureEvaluation) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rojae&repo=Spring-Encrypted-Sample)](https://github.com/rojae/Spring-Encrypted-Sample)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=I-m-Codefix&repo=ott-api-service)](https://github.com/I-m-Codefix/ott-api-service)
-
