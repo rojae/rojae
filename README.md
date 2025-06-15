@@ -40,7 +40,7 @@
 - [젊은 로재씨의 슬픔 - 우당탕탕 PL 데뷔기]()
 
 
-## ✨ Contributions
+## Contributions
 - [OpenFeign](https://github.com/OpenFeign/feign)
   - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
   - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
