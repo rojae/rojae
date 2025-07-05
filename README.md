@@ -17,12 +17,14 @@
 <a href="https://rojae.github.io">
   <img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=blogger&logoColor=white"/>
 </a>
+<a href="https://medium.com/@jaethon96">
+  <img src="https://img.shields.io/badge/Medium-171717?logo=medium&style=flat-square" alt="Tistory Blog" />
+</a>
 <a href="https://redcoder.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-Blog-171717?style=flat-square" alt="Tistory Blog" />
 </a>
 
 ![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&show_icons=true&theme=merko)
-
 
 
 ## Side Projects
@@ -38,7 +40,7 @@
 - [서비스가 커질수록 필요한 설계 패턴 – 메시징 시스템 예제 중심으로](https://rojae.github.io/posts/design-pattern-intro/)
 - [자바공화국에서 낭만을 꿈꾼다 (Take me home, Country roads)](https://redcoder.tistory.com/353)
 - [젊은 로재씨의 슬픔 - (The Sorrows of Young Rojae, 우당탕탕 PL 데뷔기)](https://rojae.github.io/posts/the-sorrows-of-young-rojae/)
-
+- [JVM DNS Caching Meets Connection Pools: Our Production Service Outage After an IP Change](https://medium.com/@jaethon96/how-is-dns-managed-in-jvm-0b1cadd08ba2)
 
 ## Contributions
 - [OpenFeign](https://github.com/OpenFeign/feign)
