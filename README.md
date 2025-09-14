@@ -33,7 +33,7 @@
 - [R.LOG](https://blog.rojae.kr): 📖 Personal blog service, including a blog frontend and an admin dashboard.
   -  [Document & History](https://rojae.notion.site/R-LOG-01ac7678a44f49a5a603d16d17496af8)
 - [Carrer.Site](https://nklcb.site) - (In progress): ⏫ IT company's Job listing aggregation site that scrapes postings site.
-  - (In progress)
+  - (In progress, Service Down)
 
 
 ## Blog Posts
