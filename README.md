@@ -24,8 +24,6 @@
   <img src="https://img.shields.io/badge/Tistory-Blog-171717?style=flat-square" alt="Tistory Blog" />
 </a>
 
-![rojae's github stats](https://github-readme-stats.vercel.app/api?username=rojae&show_icons=true&theme=merko)
-
 
 ## Side Projects
 - [Auth-Server](https://signin.rojae.kr): 🔑 Member service including login and registration features.
