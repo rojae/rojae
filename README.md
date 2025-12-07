@@ -32,6 +32,8 @@
   -  [Document & History](https://rojae.notion.site/R-LOG-01ac7678a44f49a5a603d16d17496af8)
 - [Carrer.Site](https://nklcb.site) - (In progress): ⏫ IT company's Job listing aggregation site that scrapes postings site.
   - (In progress, Service Down)
+- [WAF](https://github.com/rojae/waf): Web Application Firewall
+- [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate): Traffic rate-limiter using Redis, rule persistence with MongoDB
 
 
 ## Blog Posts
@@ -44,6 +46,6 @@
 - [OpenFeign](https://github.com/OpenFeign/feign)
   - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
   - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
-- [OpenFluxGate] (https://github.com/OpenFluxGate/fluxgate)
-  - [Release 0.1.2] FluxGate is rate-limiter(traffic-limiter) using Redis, rule persistence with MongoDB
+- [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate)
+  - [Release] FluxGate is rate-limiter(traffic-limiter) using Redis, rule persistence with MongoDB (https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.1.2)
 
