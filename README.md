@@ -1,5 +1,5 @@
 <h2>
-  Jaeseong Oh
+  Jaeseong Oh (rojae)
   <a href="https://hits.sh/github.com/rojae">
     <img alt="Hits" src="https://hits.sh/github.com/rojae.svg?view=today-total&logo=github" align="right"/>
   </a>
