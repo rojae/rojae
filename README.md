@@ -27,13 +27,13 @@
 
 ## Side Projects
 - [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate): Traffic rate-limiter using Redis, rule persistence with MongoDB
+- [WAF](https://github.com/rojae/waf): Web Application Firewall
 - [Auth-Server](https://signin.rojae.kr): 🔑 Member service including login and registration features.
   -  [Document & History](https://rojae.notion.site/1dbf717e93e0808bb149fe94d5b7ee14)
 - [R.LOG](https://blog.rojae.kr): 📖 Personal blog service, including a blog frontend and an admin dashboard.
   -  [Document & History](https://rojae.notion.site/R-LOG-01ac7678a44f49a5a603d16d17496af8)
 - [Carrer.Site](https://nklcb.site) - (In progress): ⏫ IT company's Job listing aggregation site that scrapes postings site.
   - (In progress, Service Down)
-- [WAF](https://github.com/rojae/waf): Web Application Firewall
 
 
 ## Blog Posts
