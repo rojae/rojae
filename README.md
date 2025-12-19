@@ -47,5 +47,5 @@
   - [#2871] Added constructors to RetryableException to resolve overload ambiguity ([https://github.com/OpenFeign/feign/pull/2871])
   - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
 - [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate)
-  - [Released] FluxGate is rate-limiter using Redis, rule persistence with MongoDB ([releases/0.1.2](https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.1.2))
+  - [Released] FluxGate is rate-limiter using Redis, rule persistence with MongoDB ([releases/0.3.3](https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.1.2))
 
