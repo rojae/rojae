@@ -48,4 +48,6 @@
   - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
 - [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate)
   - [Released] FluxGate is rate-limiter using Redis, rule persistence with MongoDB ([releases/0.3.7](https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.3.7))
+- [GitChan](https://github.com/gitchan-app/gitchan)
+  - [Pre-Released] GitHub notifications with Live2D mascot. Based on Gitify. (macOS, Windows, Linux) ([release/0.0.2](https://github.com/gitchan-app/gitchan/releases/tag/v0.0.2))
 
