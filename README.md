@@ -5,7 +5,7 @@
   </a>
 </h2>
 
-<a href="https://www.rallit.com/hub/resumes/781874/%EC%98%A4%EC%9E%AC%EC%84%B1">
+<a href="https://file.notion.so/f/f/9470c9a0-a45e-4781-81f8-c3218466131d/01c699b9-a5b0-4717-abe0-cbbd2df1c209/%E1%84%85%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF_%E1%84%90%E1%85%A6%E1%84%86%E1%85%A1.pdf?table=block&id=2ebf717e-93e0-80a3-bab9-f1d0c747dca8&spaceId=9470c9a0-a45e-4781-81f8-c3218466131d&expirationTimestamp=1768701600000&signature=ipaXGG-v32nVZo4hsBqFVwrOwCdunGn-BevXBLoj4xw&downloadName=%E1%84%85%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4+%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF_%E1%84%90%E1%85%A6%E1%84%86%E1%85%A1.pdf">
   <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 <a href="https://cdn.rallit.com/attachment/2025-06-14/_s-eO_dvc-7NjXQV2o6hc/%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC_%E1%84%8C%E1%85%A1%E1%84%80%E1%85%B5%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5.pdf">
