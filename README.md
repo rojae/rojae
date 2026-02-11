@@ -26,7 +26,7 @@
 
 
 ## Side Projects
-- [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate): Traffic rate-limiter using Redis, rule persistence with MongoDB.
+- [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate): Traffic rate-limiter using Redis, rule persistence with MongoDB
 - [WAF](https://github.com/rojae/waf): Web Application Firewall.
 - [Auth-Server](https://signin.rojae.kr): 🔑 Member service including login and registration features.
   -  [Document & History](https://rojae.notion.site/1dbf717e93e0808bb149fe94d5b7ee14) (Service Down)
