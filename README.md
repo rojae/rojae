@@ -49,4 +49,4 @@
   - [Pre-Released] GitHub notifications with Live2D mascot. Based on Gitify. (macOS, Windows, Linux) ([release/0.0.2](https://github.com/gitchan-app/gitchan/releases/tag/v0.0.2))
 - [OpenFeign](https://github.com/OpenFeign/feign) ![Contributor](https://img.shields.io/badge/Contributor-green?style=flat-square&logo=github)
   - [#2871] Added constructors to RetryableException ([https://github.com/OpenFeign/feign/pull/2871])
-  - [#2874] Added hint message for missing Annotation Param's value ([https://github.com/OpenFeign/feign/pull/2874])
+  - [#2874] Added hint message for missing Annotation Param's value. ([https://github.com/OpenFeign/feign/pull/2874])
