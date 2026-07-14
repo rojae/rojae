@@ -5,7 +5,7 @@
   </a>
 </h2>
 
-<a href="https://file.notion.com/f/f/9470c9a0-a45e-4781-81f8-c3218466131d/74044981-6e04-40b4-960d-9041f07e6bbe/base-classic.pdf?table=block&id=39df717e-93e0-80c6-882f-dc09c937afce&spaceId=9470c9a0-a45e-4781-81f8-c3218466131d&expirationTimestamp=1784073600000&signature=bK5fQFIAGXYf6yR0qxjtUWf-4TB10CCEAxdZh-_cRh0&downloadName=base-classic.pdf">
+<a href="https://file.notion.com/f/f/9470c9a0-a45e-4781-81f8-c3218466131d/e21c67a9-147a-447c-b0eb-d0375040171a/base-classic.pdf?table=block&id=39df717e-93e0-80f8-b7d4-fca532b28f0f&spaceId=9470c9a0-a45e-4781-81f8-c3218466131d&expirationTimestamp=1784073600000&signature=GYOP2WqvKISFwmN4nPuSEFDBJ5wTsLpN8uXbjHP5pNA&downloadName=base-classic.pdf">
   <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
