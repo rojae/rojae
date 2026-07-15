@@ -5,7 +5,7 @@
   </a>
 </h2>
 
-<a href="https://file.notion.com/f/f/9470c9a0-a45e-4781-81f8-c3218466131d/e21c67a9-147a-447c-b0eb-d0375040171a/base-classic.pdf?table=block&id=39df717e-93e0-80f8-b7d4-fca532b28f0f&spaceId=9470c9a0-a45e-4781-81f8-c3218466131d&expirationTimestamp=1784073600000&signature=GYOP2WqvKISFwmN4nPuSEFDBJ5wTsLpN8uXbjHP5pNA&downloadName=base-classic.pdf">
+<a href="https://drive.google.com/file/d/1xYbJWPoiNc9r7dG7qEojBYbYsHBZbtKF/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
