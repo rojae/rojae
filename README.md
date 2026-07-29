@@ -5,7 +5,7 @@
   </a>
 </h2>
 
-<a href="https://drive.google.com/file/d/1xYbJWPoiNc9r7dG7qEojBYbYsHBZbtKF/view?usp=sharing">
+<a href="https://drive.google.com/file/d/1WwhOdHl-P7jy55xGIH9Q5A6z6bDqdIJQ/view?usp=sharing">
   <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/>
 </a>
 
