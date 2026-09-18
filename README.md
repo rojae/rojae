@@ -12,13 +12,12 @@
 <a href="https://rojae.github.io"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=jekyll&logoColor=white" alt="Blog"/></a>
 <a href="https://medium.com/@jaethon96"><img src="https://img.shields.io/badge/Medium-171717?style=flat-square&logo=medium" alt="Medium"/></a>
 
-- 지금: 지마켓 Member Engineering — 통합인증 · 회원 제휴 연동 · 약관 관리
-- 이력서 PDF: [Google Drive](https://drive.google.com/file/d/1BdjvsehWxIfhAOJmOlzCTRp8qkAu_Jo2/view?usp=sharing) · 항상 최신본은 [rojae.kr/resume.pdf](https://rojae.kr/resume.pdf) (다른 형식: [컴팩트](https://rojae.kr/resume/compact.pdf) · [심플](https://rojae.kr/resume/simple.pdf) · [모던](https://rojae.kr/resume/modern.pdf) · [클래식](https://rojae.kr/resume/classic.pdf))
-- 연락: rojae@kakao.com
+지마켓 Member Engineering에서 인증 · 제휴 연동 · 약관을 맡고 있습니다.  
+이력서는 [PDF](https://drive.google.com/file/d/1BdjvsehWxIfhAOJmOlzCTRp8qkAu_Jo2/view?usp=sharing)로, 프로젝트 이야기는 [rojae.kr](https://rojae.kr)에.
 
 ## Work
 
-각 프로젝트의 배경 · 구조도 · 기술적 판단 · 한계까지 **[rojae.kr](https://rojae.kr)** 에 정리해 두었습니다.
+
 
 - [외부 파트너 제휴 연동 플랫폼](https://rojae.kr/work/affiliate.html) — 삼성카드 첫 적용, 양방향 동의 · 배치 정합 · 리워드 · 운영 어드민, 오픈 첫 달 동의 약 1만 명
 - [통합인증 서비스](https://rojae.kr/work/auth.html) — 6가지 인증 유형과 인증업체 비율을 어드민에서 다루는 공통 인증, 월 인증 비용 약 1/3↓ · CS 90%↓
