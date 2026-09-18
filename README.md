@@ -5,54 +5,41 @@
   </a>
 </h2>
 
-<a href="https://drive.google.com/file/d/1WwhOdHl-P7jy55xGIH9Q5A6z6bDqdIJQ/view?usp=sharing">
-  <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/>
-</a>
+Server engineer. 회원 · 인증 · 외부 파트너 연동을 만듭니다. Java / Spring.
 
-<!--
-<a href="https://file.notion.so/f/f/9470c9a0-a45e-4781-81f8-c3218466131d/01c699b9-a5b0-4717-abe0-cbbd2df1c209/%E1%84%85%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF_%E1%84%90%E1%85%A6%E1%84%86%E1%85%A1.pdf?table=block&id=2ebf717e-93e0-80a3-bab9-f1d0c747dca8&spaceId=9470c9a0-a45e-4781-81f8-c3218466131d&expirationTimestamp=1768701600000&signature=ipaXGG-v32nVZo4hsBqFVwrOwCdunGn-BevXBLoj4xw&downloadName=%E1%84%85%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%BA%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF-%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8B%E1%85%B4+%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%91%E1%85%B5%E1%86%AF_%E1%84%90%E1%85%A6%E1%84%86%E1%85%A1.pdf">
-  <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/>
-</a>
-<a href="https://cdn.rallit.com/attachment/2025-06-14/_s-eO_dvc-7NjXQV2o6hc/%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC_%E1%84%8C%E1%85%A1%E1%84%80%E1%85%B5%E1%84%89%E1%85%A9%E1%84%80%E1%85%A2%E1%84%89%E1%85%A5.pdf">
-  <img src="https://img.shields.io/badge/Profile-000000?style=flat-square&logo=libreoffice&logoColor=white"/>
-</a>
-<a href="https://cdn.rallit.com/attachment/2026-01-18/VCIozTvalke-1OGnwbJ9H/%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A2%E1%84%89%E1%85%A5%E1%86%BC_%E1%84%80%E1%85%A7%E1%86%BC%E1%84%85%E1%85%A7%E1%86%A8%E1%84%80%E1%85%B5%E1%84%89%E1%85%AE%E1%86%AF%E1%84%89%E1%85%A5.pdf">
-  <img src="https://img.shields.io/badge/Career-000000?style=flat-square&logo=libreoffice&logoColor=white"/>
-</a>
--->
-<a href="https://rojae.github.io">
-  <img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=blogger&logoColor=white"/>
-</a>
-<a href="https://medium.com/@jaethon96">
-  <img src="https://img.shields.io/badge/Medium-171717?logo=medium&style=flat-square" alt="Tistory Blog" />
-</a>
-<a href="https://redcoder.tistory.com">
-  <img src="https://img.shields.io/badge/Tistory-Blog-171717?style=flat-square" alt="Tistory Blog" />
-</a>
+<a href="https://rojae.kr"><img src="https://img.shields.io/badge/rojae.kr-2f5bd8?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
+<a href="https://rojae.kr/resume.html"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readme&logoColor=white" alt="Resume"/></a>
+<a href="https://rojae.github.io"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=jekyll&logoColor=white" alt="Blog"/></a>
+<a href="https://medium.com/@jaethon96"><img src="https://img.shields.io/badge/Medium-171717?style=flat-square&logo=medium" alt="Medium"/></a>
 
+## Work
 
-## Side Projects
-- [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate): Traffic rate-limiter using Redis, rule persistence with MongoDB.
-- [WAF](https://github.com/rojae/waf): Web Application Firewall.
-- [Auth-Server](https://signin.rojae.kr): 🔑 Member service including login and registration features.
-  -  [Document & History](https://rojae.notion.site/1dbf717e93e0808bb149fe94d5b7ee14) (Service Down).
-- [R.LOG](https://blog.rojae.kr): 📖 Personal blog service, including a blog frontend and an admin dashboard.
-  -  [Document & History](https://rojae.notion.site/R-LOG-01ac7678a44f49a5a603d16d17496af8) (Service Down).
-- [Carrer.Site](https://nklcb.site) - (In progress): ⏫ IT company's Job listing aggregation site that scrapes postings site.
-  - (Service Down).
+프로젝트별 상세 글은 **[rojae.kr](https://rojae.kr)** 에 있습니다.
 
+- [외부 파트너 제휴 연동 플랫폼](https://rojae.kr/work/affiliate.html) — 양방향 동의 · 배치 정합 · 리워드 · 운영 어드민
+- [통합인증 서비스](https://rojae.kr/work/auth.html) — 6가지 인증 유형과 인증업체 비율을 어드민에서 다루는 공통 인증
+- [약관 관리 서비스](https://rojae.kr/work/terms.html) — 지마켓 · 옥션 · ESMPLUS 약관을 한 서비스로
+- [회원 도메인 공통 모듈화](https://rojae.kr/work/platform.html) · [로그인 시스템 Java/Spring 전환](https://rojae.kr/work/login.html)
 
-## Blog Posts
-- [서비스가 커질수록 필요한 설계 패턴 – 메시징 시스템 예제 중심으로](https://rojae.github.io/posts/design-pattern-intro/)
-- [자바공화국에서 낭만을 꿈꾼다 (Take me home, Country roads)](https://redcoder.tistory.com/353)
-- [젊은 로재씨의 슬픔 - (The Sorrows of Young Rojae, 우당탕탕 PL 데뷔기)](https://rojae.github.io/posts/the-sorrows-of-young-rojae/)
-- [JVM DNS Caching Meets Connection Pools: Our Production Service Outage After an IP Change](https://medium.com/@jaethon96/how-is-dns-managed-in-jvm-0b1cadd08ba2)
+## Open Source
 
-## Contributions
-- [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate) ![Owner](https://img.shields.io/badge/Owner-blue?style=flat-square&logo=github)
-  - [Released] FluxGate is rate-limiter using Redis, rule persistence with MongoDB ([releases/0.3.7](https://github.com/OpenFluxGate/fluxgate/releases/tag/v0.3.7))
-- [GitChan](https://github.com/gitchan-app/gitchan) ![Owner](https://img.shields.io/badge/Owner-blue?style=flat-square&logo=github)
-  - [Pre-Released] GitHub notifications with Live2D mascot. Based on Gitify. (macOS, Windows, Linux) ([release/0.0.2](https://github.com/gitchan-app/gitchan/releases/tag/v0.0.2))
-- [OpenFeign](https://github.com/OpenFeign/feign) ![Contributor](https://img.shields.io/badge/Contributor-green?style=flat-square&logo=github)
-  - [#2871] Added constructors to RetryableException. ([https://github.com/OpenFeign/feign/pull/2871])
-  - [#2874] Added hint message for missing Annotation Param's value. ([https://github.com/OpenFeign/feign/pull/2874])
+| Project | | |
+|---|---|---|
+| [OpenFluxGate](https://github.com/OpenFluxGate/fluxgate) | Redis 기반 분산 Rate Limiting 라이브러리 + Spring Boot 스타터 + [관리 어드민](https://github.com/OpenFluxGate/fluxgate-studio) | ![Maven Central](https://img.shields.io/maven-central/v/io.github.openfluxgate/fluxgate-core?style=flat-square&label=maven) |
+| [WAF](https://github.com/rojae/waf) | Nginx + ModSecurity + OWASP CRS, 실시간 / 분석 트랙으로 나눈 로그 파이프라인 | Java · Go · TS |
+| [Auth Server](https://github.com/rojae/auth-server-be) | Spring Authorization Server 기반 회원 · 인증 서비스 (현재 서비스 중단) | Java |
+| [FluxMirror](https://github.com/OpenFluxGate/fluxmirror) | Claude Code · Gemini CLI · Qwen Code 활동 감사 도구 | Rust |
+| [IssueLinker](https://plugins.jetbrains.com/plugin/30083-issuelinker) | 브랜치 이름의 이슈 키를 Jira · GitHub 이슈로 바로 여는 IntelliJ 플러그인 | Kotlin |
+| [GitChan](https://github.com/gitchan-app/gitchan) | Live2D 마스코트가 붙은 GitHub 알림 앱 (Gitify 기반) | TypeScript |
+
+### Contributions
+
+- [OpenFeign/feign #2871](https://github.com/OpenFeign/feign/pull/2871) — `RetryableException`에 `retryAfter` 없는 생성자 추가 (Kotlin 오버로드 모호성 해소)
+- [OpenFeign/feign #2874](https://github.com/OpenFeign/feign/pull/2874) — 어노테이션 파라미터 값 누락 시 힌트 메시지
+
+## Writing
+
+- [JVM DNS Caching Meets Connection Pools](https://rojae.github.io/posts/jvm-dns-caching-meets-connection-pools/) — IP 변경 뒤의 프로덕션 장애를 JVM DNS 캐시 관점에서 ([English](https://medium.com/@jaethon96/how-is-dns-managed-in-jvm-0b1cadd08ba2))
+- [Spring Batch 실전 시리즈](https://rojae.github.io/posts/spring-batch-intro/) — 개념, 핵심 인터페이스, 발송 배치, 성능 최적화
+- [서비스가 커질수록 필요한 설계 패턴](https://rojae.github.io/posts/design-pattern-intro/) — 메시징 시스템 예제로 보는 Factory · Strategy · Template Method · CoR
+- [젊은 로재씨의 슬픔 — 우당탕탕 PL 데뷔기](https://rojae.github.io/posts/the-sorrows-of-young-rojae/)
