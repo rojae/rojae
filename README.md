@@ -10,7 +10,7 @@
 전자금융 PG와 커머스에서 회원 · 인증 · 외부 파트너 연동을 만들고 운영해 왔고, 기능이 동작하는 순간만큼 실패하고 회복하는 경계와 그 뒤의 운영을 중요하게 생각합니다.
 
 <a href="https://rojae.kr"><img src="https://img.shields.io/badge/rojae.kr-2f5bd8?style=flat-square&logo=safari&logoColor=white" alt="Website"/></a>
-<a href="https://drive.google.com/file/d/1BdjvsehWxIfhAOJmOlzCTRp8qkAu_Jo2/view?usp=sharing"><img src="https://img.shields.io/badge/Resume%20PDF-000000?style=flat-square&logo=googledrive&logoColor=white" alt="Resume PDF (Google Drive)"/></a>
+<a href="https://rojae.kr/resume/classic.pdf"><img src="https://img.shields.io/badge/Resume%20PDF-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"/></a>
 <a href="https://rojae.github.io"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=jekyll&logoColor=white" alt="Blog"/></a>
 <a href="https://medium.com/@jaethon96"><img src="https://img.shields.io/badge/Medium-171717?style=flat-square&logo=medium" alt="Medium"/></a>
 
